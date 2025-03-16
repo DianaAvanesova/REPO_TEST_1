@@ -19,4 +19,31 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Debug\openal32.dll" />
+    <None Include="Debug\REPO_TEST_1.exe" />
+    <None Include="Debug\REPO_TEST_1.pdb" />
+    <None Include="Debug\sfml-audio-2.dll" />
+    <None Include="Debug\sfml-audio-d-2.dll" />
+    <None Include="Debug\sfml-graphics-2.dll" />
+    <None Include="Debug\sfml-graphics-d-2.dll" />
+    <None Include="Debug\sfml-network-2.dll" />
+    <None Include="Debug\sfml-network-d-2.dll" />
+    <None Include="Debug\sfml-system-2.dll" />
+    <None Include="Debug\sfml-system-d-2.dll" />
+    <None Include="Debug\sfml-window-2.dll" />
+    <None Include="Debug\sfml-window-d-2.dll" />
+    <None Include="REPO_TEST_1\Debug\REPO_TEST_1.exe.recipe" />
+    <None Include="REPO_TEST_1\Debug\REPO_TEST_1.ilk" />
+    <None Include="REPO_TEST_1\Debug\vc143.idb" />
+    <None Include="REPO_TEST_1\Debug\vc143.pdb" />
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="REPO_TEST_1\Debug\REPO_TEST_1.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="REPO_TEST_1\Debug\REPO_TEST_1.obj" />
+  </ItemGroup>
 </Project>
